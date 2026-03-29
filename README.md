@@ -1,6 +1,6 @@
 # 📝 To-Do List Console App 
 
-Um sistema interativo de lista de tarefas desenvolvido em **Java 21**, focado na aplicação prática de Programação Orientada a Objetos e manipulação de coleções dinâmicas. O projeto utiliza um menu via console para gerenciar o ciclo de vida de atividades.
+Um sistema simples interativo de lista de tarefas desenvolvido em **Java 21**, focado na aplicação prática de Programação Orientada a Objetos e manipulação de coleções dinâmicas. O projeto utiliza um menu via console para gerenciar o ciclo de vida de atividades.
 
 ## 🚀 Funcionalidades
 
